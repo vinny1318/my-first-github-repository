@@ -1,3 +1,3 @@
 Just an other file in the feature-2 branch.
 
-New line is added here in another-file.txt in the feature-2 branch.
+This line was modified now.
